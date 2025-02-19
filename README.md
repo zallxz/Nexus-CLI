@@ -1,16 +1,6 @@
 # Nexus-CLI
 How to run Nexus Node
 
-![image](https://github.com/user-attachments/assets/ca6aff98-5366-4775-8d69-7334fc390765)
-
-| X        | Minimum              |
-|------------------|----------------------------|
-| **CPU**          | 4 |
-| **RAM**          | 9++ GB                     |
-| **Storage**      | 50 GB SDD                   |
-| **Network**      | 100 Mbps (1 Gbps+ recommended) |
-| **Image**      | Ubuntu 22.04 |
-
 # Web / Sing Up : 
 
 -  https://app.nexus.xyz/ - Register on the site with your wallet and email at the top right - it's better to use the same one you used on the old testnet.
